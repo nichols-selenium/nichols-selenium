@@ -9,7 +9,7 @@ Feature 2: Implements authenticated Flutter-to-FastAPI communication for retriev
 Feature 3: Designed and implemented MySQL stored procedures for the friends system: friendship creation and validation, accepted-friend retrieval, pending request handling, request acceptance/rejection, and friend removal. See code below.
 
 - Pending/accept/reject/remove logic
-[_View Code_](https://github.com/Identiflora/identiflora-database/blob/main/schema/initialize_database.sql#L684-L773)
+[_View Code_](https://github.com/Identiflora/identiflora-database/blob/main/schema/initialize_database.sql#L684-L733)
 
 - Friendship relationship status tracking, self-friendship validation, and foreign-key constraints
  [_View Code_](https://github.com/Identiflora/identiflora-database/blob/main/schema/initialize_database.sql#L147-L164)
